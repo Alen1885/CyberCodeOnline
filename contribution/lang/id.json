@@ -86,31 +86,31 @@
  	 	},
  	 	"equipmentUpgrade": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calibration Station",
+ 	 	 	 	"trans": "Stasiun Kalibrasi",
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A workbench with necessary tools allows you to tinker with your equipment.",
+ 	 	 	 	"trans": "Meja kerja dengan peralatan yang kamu butuhkan untuk mengotak-atik peralatanmu.",
  	 	 	 	"eng": "A workbench with necessary tools allows you to tinker with your equipment."
  	 	 	}
  	 	},
  	 	"storageMerchant": {
  	 	 	"name": {
- 	 	 	 	"trans": "Lee's Trading Post",
+ 	 	 	 	"trans": "Pos Perdagangan Lee",
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A family run trading shop that lets you trade with what they have found while scavenging",
+ 	 	 	 	"trans": "Toko perdagangan keluarga yang memungkinkan kamu untuk berdagang dengan barang hasil scavenging mereka",
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	}
  	 	},
  	 	"recycleMachine": {
  	 	 	"name": {
- 	 	 	 	"trans": "Automatic Recycler",
+ 	 	 	 	"trans": "Pendaur-ulang Otomatis",
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Fully automated recycler, capable of recycling items to their basic scrap form",
+ 	 	 	 	"trans": "Pendaur-ulang Otomatis, mampu mendaur ulang items ke bentuk dasar mereka",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -146,7 +146,7 @@
  	 	},
  	 	"ammo": {
  	 	 	"name": {
- 	 	 	 	"trans": "Level Pembuatan amunisi",
+ 	 	 	 	"trans": "Level Pembuatan Amunisi",
  	 	 	 	"eng": "ammo crafting"
  	 	 	}
  	 	},
@@ -179,7 +179,7 @@
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "mulai petualangan kamu untuk mendapatkan rampasan apik di sini",
+ 	 	 	 	 	"trans": "Mulai petualangan kamu untuk mendapatkan rampasan epik di sini",
  	 	 	 	 	"eng": "Start your adventure to epic loots here"
  	 	 	 	},
  	 	 	 	"description": {
@@ -209,7 +209,7 @@
  	 	 	},
  	 	 	"toGang": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Go to gang headquarter",
+ 	 	 	 	 	"trans": "Pergi ke Markas Gang",
  	 	 	 	 	"eng": "Go to gang headquarter"
  	 	 	 	}
  	 	 	}
@@ -252,7 +252,7 @@
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Adventure]\r\n        dengan Menggunakan hyperloop, kamu dapat bepergian dengan kecepatan tinggi dalam benua dengan mudah.",
+ 	 	 	 	"trans": "[Adventure]\r\n        Dengan menggunakan hyperloop, kamu dapat bepergian dengan kecepatan tinggi dalam benua dengan mudah.",
  	 	 	 	"eng": "[Adventure]\r\n        Using the hyperloop you can travel at super speed across the continent with ease."
  	 	 	}
  	 	},
@@ -303,7 +303,7 @@
  	 	"segment": {
  	 	 	"locked": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "kumpulkan 3 Potongan kunci (Key Fragments) yang berbeda dari Dungeon pada 3 Zona pada stasiun sebelumnya, \r\n                    Kemudian pergi ke [Terminal] di Pusat Kota [Hub] untuk brute-force (Craft) kunci yang dibutuhkan untuk membuka area ini",
+ 	 	 	 	 	"trans": "Kumpulkan 3 Potongan kunci (Key Fragments) yang berbeda dari Dungeon pada 3 Zona pada stasiun sebelumnya, \r\n                    Kemudian pergi ke [Terminal] di Pusat Kota [Hub] untuk brute-force (Craft) kunci yang dibutuhkan untuk membuka area ini",
  	 	 	 	 	"eng": "Gather all 3 different Key Fragments from Dungeons in each 3 zones in previous station, \r\n                    then go to [Terminal] at City Center [Hub] to brute-force (Craft) the key required to unlock this area"
  	 	 	 	}
  	 	 	},
@@ -346,17 +346,17 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentStationName"
  	 	 	 	],
- 	 	 	 	"trans": "go to ${segmentStationName}",
+ 	 	 	 	"trans": "Pergi ke ${segmentStationName}",
  	 	 	 	"eng": "go to ${segmentStationName}"
  	 	 	}
  	 	},
  	 	"gang": {
  	 	 	"name": {
- 	 	 	 	"trans": "Gang Headquarter",
+ 	 	 	 	"trans": "Markas Gang",
  	 	 	 	"eng": "Gang Headquarter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Gang]\r\n        The headquarter for you and your gang members to plan and execute your next operation",
+ 	 	 	 	"trans": "[Gang]\r\n        Markas untuk kamu dan anggota gang untuk merencanakan dan melaksanakan operasi selanjutnya",
  	 	 	 	"eng": "[Gang]\r\n        The headquarter for you and your gang members to plan and execute your next operation"
  	 	 	}
  	 	}
@@ -408,7 +408,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "sebuah ${typeName} cache mengandung informasi untuk dicetak di Printer Molecular 3D, \r\n                    Kamu dapat membuat sebuah ${typeName} dengan [Molecular 3d Printer] di [Central Hub].\r\n                    \r\n                    Pro tip: level Barang yang kamu dapatkan tergantung pada Printing Rank kamu,\r\n                    jadi selalu print dengan level trash dulu, karena murah dan berguna untuk menaikkan Printing Rank kamu",
+ 	 	 	 	"trans": "Sebuah ${typeName} cache mengandung informasi untuk dicetak di Printer Molecular 3D, \r\n                    Kamu dapat membuat sebuah ${typeName} dengan [Molecular 3d Printer] di [Central Hub].\r\n                    \r\n                    Pro tip: level Barang yang kamu dapatkan tergantung pada Printing Rank kamu,\r\n                    jadi selalu print dengan level trash dulu, karena murah dan berguna untuk menaikkan Printing Rank kamu",
  	 	 	 	"eng": "A ${typeName} cache contains information used for Molecular 3D Printing, \r\n                    You can create a ${typeName} with the [Molecular 3d Printer] at [Central Hub].\r\n                    \r\n                    Pro tip: The level of item you get from printing is determined by your Printing Rank,\r\n                    so always print the trash ones first, as they cost less and useful to level up your Printing Rank"
  	 	 	}
  	 	},
@@ -438,7 +438,7 @@
  	 	},
  	 	"upgradeModule": {
  	 	 	"name": {
- 	 	 	 	"trans": "modul upgrade",
+ 	 	 	 	"trans": "modul peningkatan",
  	 	 	 	"eng": "upgrade module"
  	 	 	}
  	 	},
@@ -756,57 +756,57 @@
  	 	 	 	"eng": "locked container"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "sebuah kotak kuat yang dikunci dengan enkripsi biometrik, kelihatannya mengandung barang yang penting di dalamnya.\r\n        untungnya komputer kecil di dalamnya memakai firmware yang tidak terupdate, ketika sebuah exploit ada, pergi ke [Terminal] untuk membuka kontainer ini",
+ 	 	 	 	"trans": "Sebuah kotak kuat yang dikunci dengan enkripsi biometrik, kelihatannya mengandung barang yang penting di dalamnya.\r\n        untungnya komputer kecil di dalamnya memakai firmware yang tidak terupdate, ketika sebuah exploit ada, pergi ke [Terminal] untuk membuka kontainer ini",
  	 	 	 	"eng": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container"
  	 	 	}
  	 	},
  	 	"lootBox2": {
  	 	 	"name": {
- 	 	 	 	"trans": "kontainer terkunci Langka",
+ 	 	 	 	"trans": "Kontainer terkunci Langka",
  	 	 	 	"eng": "locked rare container"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "sebuah kotak kuat yang dikunci dengan enkripsi biometrik, kelihatannya mengandung barang yang penting di dalamnya.\r\n        untungnya komputer kecil di dalamnya memakai firmware yang tidak terupdate, ketika sebuah exploit ada, pergi ke [Terminal] untuk membuka kontainer ini",
+ 	 	 	 	"trans": "Sebuah kotak kuat yang dikunci dengan enkripsi biometrik, kelihatannya mengandung barang yang penting di dalamnya.\r\n        untungnya komputer kecil di dalamnya memakai firmware yang tidak terupdate, ketika sebuah exploit ada, pergi ke [Terminal] untuk membuka kontainer ini",
  	 	 	 	"eng": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container"
  	 	 	}
  	 	},
  	 	"lootBox3": {
  	 	 	"name": {
- 	 	 	 	"trans": "kontainer terkunci Legendaris",
+ 	 	 	 	"trans": "Kontainer terkunci Legendaris",
  	 	 	 	"eng": "locked legendary container"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "sebuah kotak kuat yang dikunci dengan enkripsi biometrik, kelihatannya mengandung barang yang penting di dalamnya.\r\n        untungnya komputer kecil di dalamnya memakai firmware yang tidak terupdate, ketika sebuah exploit ada, pergi ke [Terminal] untuk membuka kontainer ini",
+ 	 	 	 	"trans": "Sebuah kotak kuat yang dikunci dengan enkripsi biometrik, kelihatannya mengandung barang yang penting di dalamnya.\r\n        untungnya komputer kecil di dalamnya memakai firmware yang tidak terupdate, ketika sebuah exploit ada, pergi ke [Terminal] untuk membuka kontainer ini",
  	 	 	 	"eng": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container"
  	 	 	}
  	 	},
  	 	"clanDungeonKey": {
  	 	 	"name": {
- 	 	 	 	"trans": "Gang Invasion Order Transmitter",
+ 	 	 	 	"trans": "Pemancar Perintah Invasi Gang",
  	 	 	 	"eng": "Gang Invasion Order Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A simple transmitter device that can be bind to your gang encrypted channel and give out invasion order.\r\n        This item is required to activate Gang Dungeons",
+ 	 	 	 	"trans": "Perangkat pemancar yang bisa tertaut ke channel terenkripsi gang dan memberikan perintah invasi.\r\n        Item ini dibutuhkan untuk mengaktifkan Gang Dungeons",
  	 	 	 	"eng": "A simple transmitter device that can be bind to your gang encrypted channel and give out invasion order.\r\n        This item is required to activate Gang Dungeons"
  	 	 	}
  	 	},
  	 	"clanResource": {
  	 	 	"name": {
- 	 	 	 	"trans": "Supply Crate [Gang]",
+ 	 	 	 	"trans": "Crate Persediaan [Gang]",
  	 	 	 	"eng": "Supply Crate [Gang]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Contains misc items and resources for a gang to stay functional,\r\n        Click use to send it to your gang headquarter",
+ 	 	 	 	"trans": "Mengandung misc items dan sumber daya agar gang tetap fungsional,\r\n        Klik use untuk mengirim ke Markas Gang",
  	 	 	 	"eng": "Contains misc items and resources for a gang to stay functional,\r\n        Click use to send it to your gang headquarter"
  	 	 	}
  	 	},
  	 	"clanExp": {
  	 	 	"name": {
- 	 	 	 	"trans": "encrypted gang memory shard",
+ 	 	 	 	"trans": "pecahan memori terenkripsi gang",
  	 	 	 	"eng": "encrypted gang memory shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A memory shard contains encrypted gang secrets, \r\n        decrypt this in your gang headquarter to gain useful intel (requires to be in a gang)",
+ 	 	 	 	"trans": "Sebuah pecahan memori yg mengandung rahasia gang, \r\n        decrypt ini di markas gangmu untuk mendapat intel berguna (dibutuhkan untuk menjadi anggota gang)",
  	 	 	 	"eng": "A memory shard contains encrypted gang secrets, \r\n        decrypt this in your gang headquarter to gain useful intel (requires to be in a gang)"
  	 	 	}
  	 	},
